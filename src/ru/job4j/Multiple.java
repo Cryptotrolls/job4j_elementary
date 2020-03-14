@@ -3,7 +3,7 @@ package ru.job4j;                                           //пакет, заг
 public class Multiple {                                     //тело расширение .java должен совпадать с классом
     public static void main(String[] args) {                //подгруппы, операторы - методы
         System.out.println("1*1=1");                        //метод выводит изображение, многовато будет для калькурятора
-        System.out.println("1*2=2");
+        System.out.println("1*2=2");                        // не понятно где данный файл
         System.out.println("1*3=3");
         System.out.println("1*4=4");
         System.out.println("1*5=5");
