@@ -6,14 +6,12 @@ public class Variable {         //ТИП_ДАННЫХ ИМЯ_ПЕРЕМЕННО�
         short size = 1;         //целочисленный тип. 16 bits.
         int lenght = 1;         //целочисленный тип. 32 bits.
         long money = 1;         //целочисленный тип. 64 bits.
-        float size = 1.05;      //числа с плавающей точкой. 32 bits.
-        double size = 1000.02;  //числа с плавающей точкой. 64 bits.
         boolean exists = true;  //описывают логический тип. 1 bit.
         char exit = 'Y';        //символьный тип. 16 bits.
     }
     public static void lain(String[] args) {
         int age = 18;
-        float length = 78.0332;
+        double length = 78.0332;
         boolean baby = true;
     }
 }
